@@ -1,0 +1,12 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+  int a,b;
+  clrscr();
+  cout<<"enter the value of a and b";
+  cin>>a>>b;
+  int c=a+b;
+  cout<<c;
+  getch();
+}
